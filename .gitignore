@@ -1,0 +1,4 @@
+\.*.swp
+\.ropeproject/
+result.txt
+example/*.out
